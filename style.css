@@ -1,0 +1,69 @@
+
+/* header section  */
+.bgImage {
+    background-image: url('./images/background.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size:cover;
+    overflow: hidden;
+}
+.logo {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.list {
+    list-style-type: none;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 60px;
+    margin-right: 50px;
+    font-weight: 400;
+}
+.heading1 {
+    color: white;
+    margin-left: 50px;
+    margin-top: 80px;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    z-index: 100;
+    width: 25%;
+}
+.p1 {
+    color: white;
+    width: 40%;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.button {
+    margin-left: 50px;
+    margin-top: 30px;
+border-radius: 50px;
+padding:5px 30px 5px 30px;
+font-weight: 400;
+background-color: #f64b3c;
+/* outline: none; */
+border: none;
+color: white;
+}
+/* our chef section */
+.bg2 {
+   background-color: #dbbeb2;
+   overflow: hidden;
+}
+.heading2 {
+text-align: center;
+margin-top: 50px;
+font-weight: 700;
+color: #db4a3e;
+
+}
+.p2 {
+    text-align: center;
+    background-color: none;
+    margin-top: 30px;
+    color: #db4a3e;
+
+}
