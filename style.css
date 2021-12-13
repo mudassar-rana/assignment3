@@ -64,6 +64,116 @@ color: #db4a3e;
     text-align: center;
     background-color: none;
     margin-top: 30px;
+    margin-bottom: 30px;
     color: #db4a3e;
 
+}
+.vegi4 {
+    margin-left: 200px;
+    margin-top:-20px;
+}
+.vegi5 {
+    margin-top: -40px;
+    margin-left: 80px;
+    width: 150px;
+}
+
+.ethel {
+
+    width: 150px; 
+    align-items: right;
+    margin-left: 250px;
+    margin-top: 20px;
+    border-radius: 100px;
+}
+.headingethi {
+text-align: right;
+margin-top: 30px;
+color: #db4a3e;
+margin-right: 20px;
+
+}
+.pethi {
+    text-align: right;
+margin-top: 20px;
+color: #db4a3e;
+margin-right: 70px;
+}
+.headingfanni{
+    text-align: center;
+    margin-top: 30px;
+    color: #db4a3e;
+    
+    
+    }
+ .fanni {
+
+  width: 150px; 
+ align-items: right;
+ margin-left:130px ;
+ margin-top: 20px;
+ border-radius: 100px;
+    }
+.pfanni {
+      text-align: center;
+    margin-top: 20px;
+    color: #db4a3e;
+    /* margin-right: 70px; */
+    }
+.headingaiden {
+text-align: left;
+margin-top: 30px;
+color: #db4a3e;
+        
+        
+}
+.aiden {
+    
+width: 150px; 
+align-items: left;
+margin-right: 100px;
+margin-top: 20px;
+border-radius: 100px;
+  }
+  .paiden {
+ text-align: left;
+margin-top: 20px;
+color: #db4a3e;
+margin-left: 50px;
+}
+.vegi3 {
+    width: 100px;
+    margin-left: 300px;
+}
+/* ============my burger========= */
+.bg3{
+    background-color: #f64b3c;
+}
+.burger {
+    width: 300px;
+    margin: 200px;
+    border-radius: 300px;
+}
+.heading3 {
+    margin-top: 250px;
+    margin-left: 50px;
+    color: white;
+    
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.p3 {
+    margin-left: 50px;
+    margin-top: 20px;
+    color: white;
+}
+.btn2 {
+    margin-left: 50px;
+    margin-top: 30px;
+border-radius: 50px;
+padding:5px 30px 5px 30px;
+font-weight: 400;
+/* outline: none; */
+border: none;
+color:#db4a3e;
 }
